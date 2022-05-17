@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='闭包概念'/>
+        <page name='尾闭包语法'/>
+        <page name='闭包参数'/>
+        <page name='闭包的捕获值'/>
+        <page name='逃逸闭包'/>
+        <page name='Autoclosures'/>
+        <page name='闭包强循环引用'/>
+    </pages>
+</playground>
