@@ -8,11 +8,13 @@
 #
 | 视频平台 | 视频链接 | 
 |:-----------|:------------|
-| 网易云课堂    |     [丰源天下传媒](https://study.163.com/course/introduction.htm?courseId=1212173805#/courseDetail?tab=1 "丰源天下传媒") |
-| 腾讯课堂    |     [丰源天下传媒](https://ke.qq.com/course/4031190?tuin=14527f38 "丰源天下传媒") |
+| 网易云课堂    |     [丰源天下传媒](https://study.163.com/provider/480000002275483/course.htm?share=2&shareId=480000002275483 "丰源天下传媒") |
+| 腾讯课堂    |     [丰源天下传媒](https://fengyuantianxia.ke.qq.com/#tab=1&category=-1 "丰源天下传媒") |
 | 抖音    |     [丰源天下传媒](https://student-api.iyincaishijiao.com/t/dWNtL5k/ "丰源天下传媒") |
 | 微信公众号    |     [暂时未开通](暂时未开通 "暂时未开通") |
- 
+| Bilibili    |     [B站](https://space.bilibili.com/1311776362) |
+| Youtube    |     [Youtube](https://www.youtube.com/channel/UCPPBnRw60xZ6VB1B-4B-rjQ/featured) |
+
 
 # 
 | No | 视频标题 | 代码 |
