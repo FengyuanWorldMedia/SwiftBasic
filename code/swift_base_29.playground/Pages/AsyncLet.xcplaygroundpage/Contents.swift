@@ -31,6 +31,12 @@ func doTest2 () {
     }
 }
 
+//在Swift5.5 Concurrency FW引入的新的 语法， Async。
+//关于Async let 语法的支持，现在 Playground还不能很好的支持。
+//
+//由公司的讲师回答，在 Command Tool Line 工程中实验是 很好的选择。
+//视频中的代码已在 【Command Tool Line】经过调试，为保持统一，在 Playground 进行展示。
+// 2022.06.16 10:27
 func doTest3 () {
     Task {
         let photoNames = ["IMG001", "IMG99", "IMG0404"]
